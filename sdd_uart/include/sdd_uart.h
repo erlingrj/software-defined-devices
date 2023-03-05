@@ -7,7 +7,7 @@ Author: erling.r.jellum@ntnu.no
 #include <stdint.h>
 
 #include "common/cbuf.h"
-#include "lock.h"
+#include "flexpret.h"
 
 /**
  * @brief This is the PRIVATE part of the sdd_uart config.
